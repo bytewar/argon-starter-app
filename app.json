@@ -30,5 +30,7 @@
       "package": "com.bytewar.aragonstarter",
       "versionCode": 1
     }
-  }
+  },
+  "name":"Aragon design react native starter",
+  "displayName": "Aragon starter"
 }
